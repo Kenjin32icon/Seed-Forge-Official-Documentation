@@ -7,9 +7,10 @@
 **Cultivating Ideas, Nurturing Innovation**
 
 Welcome to the Seed Forge Collective! We are a decentralized, community-driven platform that merges blockchain technology, gaming, and creativity to transform innovative ideas into viable businesses. Join us in forging a brighter future, one seed at a time!
+
 ## Table of Contents
 
-## 🚀 [Why Seed Forge?](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/64dc1054cdf8efccc3bab57b4fbea78fdb40a15c/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/1.%20Overview/Overview.md)
+## 🚀 [Why Seed Forge?](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/f98012158bc81f5eaf43922627452d9385b58ebc/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/Reason%20of%20joining%20Seed%20Forge/Compelling%20Reasons%20to%20Join%20Seed%20Forge.md)
 
 - **Empowerment:** We believe in the power of community. Every member has a voice and a role in shaping the future.
 - **Collaboration:** Work alongside skilled professionals and passionate individuals to bring your ideas to life.
@@ -59,6 +60,7 @@ Welcome to the Seed Forge Collective! We are a decentralized, community-driven p
 11. **[Long-term Vision and Adaptability](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/7167fd7f09f0bd2e4e71fbd8f60889adfd10c2e0/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/2.%20Key%20Components/2.11.%20Long-term%20Vision%20and%20Adaptability/Long-term%20Vision%20and%20Adaptability.md)**
     - Outlines a vision for scaling and integrating with other platforms while remaining adaptable to new technologies and market changes.
     - Identifies potential challenges and proposes solutions to ensure sustainability.
+
 ## 🛠 Getting Started
 
 1. **Join the Community**
@@ -85,6 +87,7 @@ Welcome to the Seed Forge Collective! We are a decentralized, community-driven p
 - [DReamers](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/7167fd7f09f0bd2e4e71fbd8f60889adfd10c2e0/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/3.%20Roles%20and%20Responsibilities/3.1%20DReamers/DReamers.md): Visionaries with innovative ideas seeking to bring their dreams to life.
 - [Investors](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/7167fd7f09f0bd2e4e71fbd8f60889adfd10c2e0/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/3.%20Roles%20and%20Responsibilities/3.2%20Investors/Investors.md): Individuals or entities looking to invest in promising projects, providing the necessary financial backing.
 - [Dream Makers](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/7167fd7f09f0bd2e4e71fbd8f60889adfd10c2e0/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/3.%20Roles%20and%20Responsibilities/3.3%20Dream%20Makers/Dream%20Makers.md): Skilled professionals who collaborate on projects, offering their expertise to ensure successful development.
+
 ## 💬 Get Involved
 
 We invite you to be part of our journey! Whether you’re a creator, investor, or developer, your contributions can make a difference.
@@ -100,6 +103,8 @@ At Seed Forge, we envision a vibrant ecosystem where creativity flourishes, and 
 
 For inquiries, suggestions, or support, feel free to reach out:
 
+- **Name:** Lewis Kariuki, The Seed Forge Architect
+- **Phone/WhatsApp:** +254746668098
 - **GitHub Repo:** [Seed-Forge-Official-Documentation](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation.git)
 - **GitHub Issues:** Report an issue
 
