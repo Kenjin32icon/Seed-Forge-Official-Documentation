@@ -21,7 +21,12 @@ The **Hierarchical Structure of Avatars** is a gamified system designed to incen
 
 #### **2. Tier-Specific Benefits**
 
-| **Tier** | **Benefits** | **Unlockable Features** | |-------------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------| | **Novice** | - Access to SeedSwipe and basic collaboration tools. | - Ability to join public projects. | | **Contributor** | - Voting rights in DAO proposals. | - Exclusive AR/VR workspace tools. | | **Strategist** | - 2x voting weight in governance. | - Priority access to funding via Seed Forge Trust. | | **Master Alchemist**| - Curator rights (e.g., featuring projects on SeedSwipe). | - Customizable NFT avatars with unique abilities (e.g., virtual meeting hosting). |
+| **Tier**              | **Benefits**                                                              | **Unlockable Features**                                               |
+|-----------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Novice**            | - Access to SeedSwipe and basic collaboration tools.                    | - Ability to join public projects.                                   |
+| **Contributor**       | - Voting rights in DAO proposals.                                        | - Exclusive AR/VR workspace tools.                                   |
+| **Strategist**        | - 2x voting weight in governance.                                       | - Priority access to funding via Seed Forge Trust.                  |
+| **Master Alchemist**  | - Curator rights (e.g., featuring projects on SeedSwipe).              | - Customizable NFT avatars with unique abilities (e.g., virtual meeting hosting). |
 
 ---
 
