@@ -7,7 +7,13 @@ The Seed Forge Collective thrives on a decentralized, participatory model where 
 
 #### **1. Core Roles in the Ecosystem**
 
-| **Role** | **Responsibilities** | **Incentives** | |-------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------| | **DReamers** | Submit innovative ideas ("seeds"), lead project development, and refine concepts. | Retain 35% equity in their projects; gain mentorship and resources. | | **Investors** | Provide financial backing, analyze market potential, and support scaling. | Earn 20% equity; access early-stage opportunities and governance voting rights. | | **Dream Makers** | Contribute skills (design, coding, marketing) to develop seeds into products. | Receive 15% equity; build reputation and unlock tiered avatar perks. | | **The Strategists** | Guide projects via expertise (legal, tech, finance); act as mentors and advisors. | Influence high-impact projects; earn governance power and trust-based rewards. | | **Community Moderators**| Facilitate discussions, resolve disputes, and organize events (hackathons, workshops).| Gain elevated avatar status and governance privileges. |
+| Role                | Responsibilities                                                              | Incentives                                                             |
+|---------------------|------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| DReamers            | Submit innovative ideas ("seeds"), lead project development, and refine concepts. | Retain 35% equity in their projects; gain mentorship and resources.   |
+| Investors            | Provide financial backing, analyze market potential, and support scaling.     | Earn 20% equity; access early-stage opportunities and governance voting rights. |
+| Dream Makers        | Contribute skills (design, coding, marketing) to develop seeds into products. | Receive 15% equity; build reputation and unlock tiered avatar perks.  |
+| The Strategists     | Guide projects via expertise (legal, tech, finance); act as mentors and advisors. | Influence high-impact projects; earn governance power and trust-based rewards. |
+| Community Moderators | Facilitate discussions, resolve disputes, and organize events (hackathons, workshops). | Gain elevated avatar status and governance privileges.                |
 
 ---
 
