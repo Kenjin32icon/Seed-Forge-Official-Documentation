@@ -9,7 +9,7 @@
 Welcome to the Seed Forge Collective! We are a decentralized, community-driven platform that merges blockchain technology, gaming, and creativity to transform innovative ideas into viable businesses. Join us in forging a brighter future, one seed at a time!
 ## Table of Contents
 
-## 🚀 [Why Seed Forge?](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/64dc1054cdf8efccc3bab57b4fbea78fdb40a15c/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/1.%20Overview/Overview.md)
+## 🚀 [Why Seed Forge?](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/f98012158bc81f5eaf43922627452d9385b58ebc/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/Reason%20of%20joining%20Seed%20Forge/Compelling%20Reasons%20to%20Join%20Seed%20Forge.md)
 
 - **Empowerment:** We believe in the power of community. Every member has a voice and a role in shaping the future.
 - **Collaboration:** Work alongside skilled professionals and passionate individuals to bring your ideas to life.
