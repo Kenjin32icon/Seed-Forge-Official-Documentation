@@ -92,23 +92,36 @@ Welcome to the Seed Forge Collective! We are a decentralized, community-driven p
 
 We invite you to be part of our journey! Whether you’re a creator, investor, or developer, your contributions can make a difference.
 
-- Follow us on Twitter for updates and news.
+- Follow us on [Tiktok](https://www.tiktok.com/@seedforge) for updates and news.
 - Join our Newsletter to stay informed about upcoming events and opportunities.
 
 ## 🌈 Our Vision
 
 At Seed Forge, we envision a vibrant ecosystem where creativity flourishes, and innovative ideas become reality. Together, we can cultivate a community that empowers individuals and drives positive change.
 
+## License
+
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+Credits 
+
 ## 📞 Contact Us
 
 For inquiries, suggestions, or support, feel free to reach out:
 
-- **Name:** Lewis Kariuki, The Seed Forge Architect
+- **Created by:** Lewis Kariuki, The Seed Forge Architect
 - **Phone/WhatsApp:** +254746668098
 - **GitHub Repo:** [Seed-Forge-Official-Documentation](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation.git)
+- **Website guide:** [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-2/)
+-  **Website guide:** [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-2/)
+- **Follow us on Tiktok:** [Tiktok](https://www.tiktok.com/@seedforge) 
 - **Discord Server:** [Discord server](https://discord.gg/6Q8MjnZU)
 - **GitHub Issues:** Report an issue
 
+Website: [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-
+2/ )
+🎧
+Listen & Learn: Tune into the [Curious Lewis K Podcast]
+(https://creators.spotify.com/pod/show/curiouslewisk ) for deep dives!
 ## 🌍 Let's Forge the Future Together!
 
 Join us in our mission to cultivate creativity and innovation. Together, we can transform the landscape of ideas and make a lasting impact!
