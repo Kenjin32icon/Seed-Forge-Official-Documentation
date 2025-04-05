@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kenjin32icon/Seed-Forge-Official-Documentation/blob/f09c8a9774fa086d2436b9996b0cf4f184b9d703/Official%20Documentation%20for%20Seed%20Forge%20Collective%20by%20Lewis%20Kariuki/SeedForge%20Logo/Seedforge%20logo.png" alt="Seedforge logo" />
+  <img src="https://github.com/kenjin32icon/SeedForge/blob/a89721f44b26358e32fe8aac5dc2673f3f87a5ee/SeedForge%20website%20v3/Logo/Seedforge%20logo.png" alt="Seedforge logo" />
 </p>
 
 # 🌱 Seed Forge Collective
