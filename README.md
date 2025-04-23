@@ -111,6 +111,6 @@ For inquiries, suggestions, or support, feel free to reach out:
 - **Created by:** Lewis Kariuki, The Seed Forge Architect
 - **Phone/WhatsApp:** +254746668098
 - **GitHub Repo:** [Seed-Forge-Official-Documentation](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation.git)
--  **Website guide:** [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-2/)
+-  **Website guide:** [SeedForge](https://kenjin32icon.github.io/SeedForge/)
 -  
 Join us in our mission to cultivate creativity and innovation. Together, we can transform the landscape of ideas and make a lasting impact!
