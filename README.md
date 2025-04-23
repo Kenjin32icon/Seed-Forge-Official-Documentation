@@ -112,15 +112,5 @@ For inquiries, suggestions, or support, feel free to reach out:
 - **Phone/WhatsApp:** +254746668098
 - **GitHub Repo:** [Seed-Forge-Official-Documentation](https://github.com/kenjin32icon/Seed-Forge-Official-Documentation.git)
 -  **Website guide:** [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-2/)
-- **Follow us on Tiktok:** [Tiktok](https://www.tiktok.com/@seedforge) 
-- **Discord Server:** [Discord server](https://discord.gg/6Q8MjnZU)
-- **GitHub Issues:** Report an issue
-
-Website: [Seed Forge V2](https://kenjin32icon.github.io/Seed-Forge-Website-version-
-2/ )
-🎧
-Listen & Learn: Tune into the [Curious Lewis K Podcast]
-(https://creators.spotify.com/pod/show/curiouslewisk ) for deep dives!
-## 🌍 Let's Forge the Future Together!
-
+-  
 Join us in our mission to cultivate creativity and innovation. Together, we can transform the landscape of ideas and make a lasting impact!
